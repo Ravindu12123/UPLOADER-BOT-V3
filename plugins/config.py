@@ -57,4 +57,4 @@ class Config(object):
 
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "UploadLinkToFileBot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "YtuperxBot")
